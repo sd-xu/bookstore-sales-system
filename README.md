@@ -1,2 +1,5 @@
-# bookstore-sales-system
-使用Python实现的由仓库端、客户端以及书店端构成的智能销售系统
+# Bookstore Sales System
+
+An Intelligent bookstore sales system with three ports (client, bookstore, storage), including register, login/logout, search page, book recommendation page, payment function, and sale statistics functions.
+
+- Unitized RPC to realize the data communication between the client port, bookstore port and storage port.
